@@ -1,11 +1,9 @@
 # Castward
 
-Castward Windows x64 kurulum ve güncelleme dosyaları. Bu depoda uygulamanın kaynak kodu bulunmaz.
+Windows 10/11 x64 kurulum ve otomatik güncelleme dosyaları.
 
-[En güncel kurulum paketini indir](https://github.com/erdmefe/castward-releases/releases/latest). Setup EXE dosyasını çalıştırıp kurulumu tamamla.
+[Castward 0.4.1 kurulumunu indir](https://github.com/erdmefe/castward-releases/releases/download/v0.4.1/Castward-0.4.1-Windows-x64-Setup.exe) · [Güncel sürüm](https://github.com/erdmefe/castward-releases/releases/latest)
 
-Uygulama yeni sürümü otomatik kontrol eder. İndirme **Güncellemeyi indir**, kurulum **Güncelle ve yeniden başlat** düğmesiyle başlar. Yayın bağlantısını ve açık oyunları kapattıktan sonra kurulum yapılabilir. Profil ve dünyalar uygulama klasöründen ayrı saklanır.
+Bu sürüm lisans anahtarı gerektirir. Aylık süre ilk aktivasyonda 30 gün başlar; lisans servisine erişim kesintisinde tolerans 12 saattir. Güncelleme kontrolü otomatik, indirme ve yeniden başlatma kullanıcı kontrolündedir.
 
-Eski portable EXE kullanıyorsan ilk geçiş için Setup paketini bir kez kurmalısın. Portable sürümün otomatik güncellemesi yoktur.
-
-Her sürümde Setup EXE, blockmap, latest.yml ve SHA-256 özeti birlikte sunulur.
+Bu depo yalnızca kurulum/güncelleme dosyalarını barındırır. Kaynak kodu ve yönetici kimlik bilgileri burada bulunmaz. Önceki korumasız dağıtımlar kaldırılmıştır.
