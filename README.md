@@ -2,7 +2,7 @@
 
 Windows 10/11 x64 kurulum ve otomatik güncelleme dosyaları.
 
-[Castward 0.4.5 kurulumunu indir](https://github.com/erdmefe/castward-releases/releases/download/v0.4.5/Castward-0.4.5-Windows-x64-Setup.exe) · [Güncel sürüm](https://github.com/erdmefe/castward-releases/releases/latest)
+[Castward 0.4.8 kurulumunu indir](https://github.com/erdmefe/castward-releases/releases/download/v0.4.8/Castward-0.4.8-Windows-x64-Setup.exe) · [Güncel sürüm](https://github.com/erdmefe/castward-releases/releases/latest)
 
 Bu sürüm lisans anahtarı gerektirir. Aylık süre ilk aktivasyonda 30 gün başlar; lisans servisine erişim kesintisinde tolerans 12 saattir. Güncelleme kontrolü otomatik, indirme ve yeniden başlatma kullanıcı kontrolündedir.
 
